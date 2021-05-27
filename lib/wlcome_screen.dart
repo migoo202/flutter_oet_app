@@ -24,7 +24,7 @@ class _welcomeScreenState extends State<welcomeScreen> {
           children: [
 
             CircleAvatar(
-              backgroundImage: AssetImage('assets/ja1.jpg'),
+              backgroundImage: AssetImage('assets/hd5.png'),
               radius: 50,
             ),
             SizedBox(height: 25,),
